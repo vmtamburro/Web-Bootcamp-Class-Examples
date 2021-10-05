@@ -1,0 +1,30 @@
+a:visited{
+    color:black;
+}
+
+.hover-red:hover{
+    color:red;
+}
+.hover-orange:hover{
+    color:orange;
+}
+.hover-yellow:hover{
+    color:yellow;
+}
+.hover-green:hover{
+    color:green;
+}
+.hover-blue:hover{
+    color:lightblue;
+}
+.hover-violet:hover{
+    color:violet;
+}
+
+.centered-text{
+  text-align: center;
+}
+
+h1{
+    font-size: 50px !important;
+}

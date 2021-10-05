@@ -1,0 +1,7 @@
+input:focus{
+    background-color:yellow;
+}
+
+.name-input{
+    margin:10px;
+}
